@@ -21,4 +21,4 @@ Leverage MediaPipe's hand pose detection module to identify key points on the ha
 ✨ Let’s Collaborate!
 I’m always open to improving my projects and learning from others. 😊
 Do you have ideas for enhancing this hand detection system? Or perhaps a cool application for it? Drop your thoughts and suggestions in the comments below—I’d love to hear them!
-<img src="">
+<img src="https://github.com/iamramzan/P3-Detect-Hand-Poses-Using-OpenCV-and-MediaPipe/blob/main/Detect%20Hand%20Poses.png">
