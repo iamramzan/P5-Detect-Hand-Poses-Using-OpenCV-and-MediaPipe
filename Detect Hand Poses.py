@@ -1,3 +1,5 @@
+# P6: Detect Hand Poses Using OpenCV and MediaPipe
+
 #import libraries
 import mediapipe as mp
 import cv2
