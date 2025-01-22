@@ -1,4 +1,4 @@
-## P5-Detect-Hand-Poses-Using-OpenCV-and-MediaPipe
+## Detect-Hand-Poses-Using-OpenCV-and-MediaPipe
 
 In this project, I developed a concise yet effective solution for hand detection and tracking using MediaPipe. The focus was on creating a fast, real-time system that recognizes and tracks hand poses with minimal code complexity.
 
